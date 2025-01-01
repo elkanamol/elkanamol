@@ -10,7 +10,7 @@ I'm Elkana Molson, a passionate Electronics Engineer with a knack for turning id
 
   **🔩👨🏻‍💻 Hardware & Software**
   
-  * Microcontrollers: STM32 ️, Arduino , ARM Cortex A7/M4 ⚙️
+  * Microcontrollers: STM32, ARM Cortex M4/M7/A7, Arduino ⚙️
   * Operating Systems: Linux (Yocto, Ubuntu, Legato) , FreeRTOS ⏰, Windows ⊞
   
   **🔤 Languages & Protocols**
