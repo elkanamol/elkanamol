@@ -25,7 +25,12 @@ I'm Elkana Molson, a passionate Electronics Engineer with a knack for turning id
 * **Problem Solver:** I love a good challenge! 
 * **Team Player:** Collaboration is key to success! 
 * **Innovator:** Always pushing the boundaries of technology. 
-* **Leader:** Proven track record driving projects from concept to commercialization. 
+* **Leader:** Proven track record driving projects from concept to commercialization.
+
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elkanamol&theme=dark" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elkanamol&show_icons=true&theme=dark" /></p>
+</p>
+
 
 ## 🤝Let's Connect
 Would you be ready to start a new project? Let's chat! Feel free to reach out on LinkedIn or explore my repositories for more insights into my work. 
@@ -33,6 +38,11 @@ Would you be ready to start a new project? Let's chat! Feel free to reach out on
 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/elkana-molson/)] 
 **GitHub:** [[GitHub](https://github.com/elkanamol)]
 
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/elkana-molson/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
 
 
