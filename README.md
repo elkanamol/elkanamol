@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Elkana </h1>
 <h3 align="center"> Building the Future, One Line of Code at a Time </h3> 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=elkana-molson" target="_blank">Follow on LinkedIn</a>
+<!--<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=elkana-molson" target="_blank">Follow on LinkedIn</a>-->
 
 
 ## 💡 About Me 
