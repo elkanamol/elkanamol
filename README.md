@@ -28,7 +28,7 @@ I'm Elkana Molson, a passionate Electronics Engineer with a knack for turning id
 * **Leader:** Proven track record driving projects from concept to commercialization.
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elkanamol&theme=dark" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elkanamol&show_icons=true&theme=dark" /></p>
+<!---<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elkanamol&show_icons=true&theme=dark" /></p>  --->
 <!---<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkanamol&layout=donut&theme=dark" /></p> --->
 </p>
 
