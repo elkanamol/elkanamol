@@ -82,6 +82,8 @@ I'm a passionate **Embedded Systems & IoT Developer** with expertise in creating
   </tr>
 </table>
 
+<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,6 +92,8 @@ I'm a passionate **Embedded Systems & IoT Developer** with expertise in creating
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkanamol&theme=dark" alt="GitHub Streak" />
 </p>
+-->
+
 
 ## 💼 Professional Passion
 
