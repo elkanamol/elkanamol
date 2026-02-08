@@ -6,19 +6,19 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elkanamol&theme=dark" />
 </p>
 
-## 💡 About Me
+## 🚀 Professional Profile
 
-I'm a passionate **Embedded Systems & IoT Developer** with expertise in creating intelligent systems that bridge the physical and digital worlds. My specialization lies in real-time embedded applications, low-level hardware interfacing, and telecommunications technologies. I thrive on optimizing system performance, reducing power consumption, and developing robust solutions for complex technical challenges.
+I am an **Embedded Systems & IoT Engineer** dedicated to designing intelligent, real-time systems that bridge the physical and digital worlds. With a strong foundation in low-level programming and telecommunications, I specialize in architecting deterministic, power-efficient solutions for complex hardware environments. My work focuses on optimizing system performance, ensuring reliability in critical applications, and pushing the boundaries of connectivity technologies.
 
-### 🌟 Why Choose Me?
+## 🎯 Core Competencies
 
-- **Real-Time Systems Expert**: Deep understanding of RTOS frameworks, interrupt handling, and deterministic behaviors
-- **Low-Level Implementation Specialist**: Direct hardware interfacing with minimal abstraction layers
-- **Integration Master**: Seamless hardware-software integration with comprehensive testing methodologies
-- **Power Optimization Wizard**: Creating efficient systems with minimal energy footprint
-- **Telecommunications Authority**: Extensive experience with cellular (LTE/5G/NTN) and short-range (BT/WiFi) technologies
+- **Real-Time Systems Architecture**: Advanced proficiency in RTOS frameworks, interrupt handling, and designing for deterministic behavior in mission-critical applications.
+- **Low-Level Implementation**: Expertise in direct hardware interfacing, driver development, and bare-metal programming with minimal abstraction overhead.
+- **Hardware/Software Integration**: Strategic approach to system integration, board bring-up, and rigorous testing methodologies to ensure seamless operation.
+- **Power Optimization**: Proven track record in developing energy-efficient architectures for battery-constrained IoT devices.
+- **Wireless Communications**: In-depth knowledge of cellular (LTE/5G/NTN) and short-range (Bluetooth/WiFi) communication protocols and stack integration.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,7 +42,8 @@ I'm a passionate **Embedded Systems & IoT Developer** with expertise in creating
 ![RF](https://img.shields.io/badge/RF-4C566A?style=for-the-badge&logoColor=white)
 
 ### OS & Environments
-![RTOS](https://img.shields.io/badge/RTOS-111111?style=for-the-badge&logoColor=white)
+![Zephyr Project](https://img.shields.io/badge/Zephyr_Project-7634CA?style=for-the-badge&logo=zephyrproject&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-44BB44?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kernel Development](https://img.shields.io/badge/Kernel_Dev-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bare Metal](https://img.shields.io/badge/Bare_Metal-333333?style=for-the-badge&logoColor=white)
@@ -82,30 +83,7 @@ I'm a passionate **Embedded Systems & IoT Developer** with expertise in creating
   </tr>
 </table>
 
-<!--
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elkanamol&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elkanamol&theme=dark" alt="GitHub Streak" />
-</p>
--->
-
-
-## 💼 Professional Passion
-
-My passion lies in creating efficient, reliable embedded systems that solve real-world problems. I'm particularly focused on:
-
-- Developing ultra-low power solutions for IoT deployments
-- Optimizing real-time performance in resource-constrained environments
-- Bridging hardware-software boundaries with elegant integration approaches
-- Creating robust cellular connectivity solutions for challenging environments
-- Pushing the boundaries of what's possible with embedded systems
-
-## 📫 Let's Connect
+## 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elkana-molson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -116,7 +94,7 @@ My passion lies in creating efficient, reliable embedded systems that solve real
 ---
 
 <p align="center">
-  <i>⚡ "In the world of embedded systems, every byte and every millisecond counts."</i>
+  <i>⚡ "Precision in every byte, performance in every millisecond."</i>
 </p>
 
 <p align="right">
