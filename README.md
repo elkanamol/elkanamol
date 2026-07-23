@@ -1,10 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello%2C+I'm+Elkana+Molson+%F0%9F%91%8B;Embedded+Systems+%26+IoT+Expert;Real-Time+Systems+Architect;Low-Level+Programming+Specialist" alt="Typing SVG" />
 </h1>
-
+<!-- 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elkanamol&theme=dark" />
 </p>
+-->
 
 ## 🚀 Professional Profile
 
